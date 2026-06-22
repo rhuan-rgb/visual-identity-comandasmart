@@ -1,0 +1,6 @@
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ícone ComandaSmart">
+  <rect width="420" height="420" rx="64" fill="#2f2f2d"/>
+  <path d="M306 89C279 70 244 60 207 63C126 69 62 133 62 211C62 291 128 356 210 356C249 356 285 342 313 318" fill="none" stroke="#FF8200" stroke-width="82" stroke-linecap="round"/>
+  <path d="M178 211h72" stroke="#FF8200" stroke-width="46" stroke-linecap="round"/>
+  <path d="M250 145v132" stroke="#FF8200" stroke-width="46" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="940" height="180" viewBox="0 0 940 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logotipo ComandaSmart">
+  <style>
+    .logo{font-family:'sofia-pro-soft','Sofia Pro Soft','Arial Rounded MT Bold','Trebuchet MS',sans-serif;font-weight:700;font-size:112px;letter-spacing:-5px;}
+  </style>
+  <text x="18" y="124" class="logo" fill="#FF8200">ComandaSmart</text>
+</svg>
